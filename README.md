@@ -46,11 +46,4 @@ To uncover actionable sales insights such as:
 
 ---
 
-## 🚀 Future Scope / Next Steps
 
-* Perform **predictive forecasting** using time series models
-* Build **interactive dashboard (Tableau / Power BI / Streamlit)** for leadership use
-* Add **RFM segmentation or customer behavior analysis**
-* Expand analysis to include **product category profitability**, not just region-wise sales
-
----
