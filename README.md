@@ -86,6 +86,17 @@ A **two-phase analytical solution**:
 - **Revenue Scenarios** – “What-if” analysis for pricing and channel adjustments.  
 - **Regional Sales Map** – Choropleth map by U.S. state and region.
 
+  <img width="1364" height="751" alt="Screenshot 2025-10-22 131915" src="https://github.com/user-attachments/assets/744f9249-3180-434a-90c4-25f12c3ff672" />
+
+  <img width="1350" height="744" alt="Screenshot 2025-10-22 131934" src="https://github.com/user-attachments/assets/98f1cbd4-b11d-4d5e-a045-e45d6eb80dd8" />
+
+  <img width="1345" height="742" alt="Screenshot 2025-10-22 132241" src="https://github.com/user-attachments/assets/08f9fc58-a9df-4280-abde-411a32add151" />
+
+
+  
+
+
+
 ---
 
 ## 🧰 Tools & Technologies
