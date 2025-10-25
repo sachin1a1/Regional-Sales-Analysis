@@ -153,6 +153,8 @@ jupyter notebook
 
 ## 👤 Author
 **Sachin**
+Aspiring Data Analyst | SQL | Python | Data Visualization
+
 - GitHub: [@sachin1a1](https://github.com/sachin1a1)
 - LinkedIn: www.linkedin.com/in/sachin1a1
 
